@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fm-notifications-page/static/css/main.eff48381.css",
+    "main.js": "/fm-notifications-page/static/js/main.500dc7e5.js",
+    "index.html": "/fm-notifications-page/index.html",
+    "main.eff48381.css.map": "/fm-notifications-page/static/css/main.eff48381.css.map",
+    "main.500dc7e5.js.map": "/fm-notifications-page/static/js/main.500dc7e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eff48381.css",
+    "static/js/main.500dc7e5.js"
+  ]
+}
